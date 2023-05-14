@@ -1,0 +1,35 @@
+.infocontaniar_skills{
+    width:60vw;
+    height: 68vh;
+    margin: 144px auto;   
+}
+
+.infocontaniar_skills p{
+    text-align: left;
+    font-weight: 550;
+    color:rgb(49, 49, 49) ;
+}
+
+.colorlib-heading{
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(141, 136, 136);
+  
+}
+
+.container {
+    width: 100%;
+    background-color: #ddd;
+  }
+
+.skills {
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+}  
+
+.html {width: 90%; background-color: #02613e;}
+.css {width: 80%; background-color: #125891;}
+.js {width: 65%; background-color: #f01000;}
+.php {width: 60%; background-color: #424242;}
